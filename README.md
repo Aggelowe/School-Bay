@@ -1,5 +1,7 @@
 # School Bay
 
+![School Bay Icon-Text Logo](logo.png)
+
 *More information on the project will be released soon!*
 
 ### Info
